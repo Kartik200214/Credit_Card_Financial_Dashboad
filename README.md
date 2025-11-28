@@ -85,6 +85,8 @@ Top-performing states contributing highest revenue.
 
 # Overview :-
 ## Dashboard
-![Dashboard](https://raw.githubusercontent.com/Kartik200214/credit-card-dashboard/main/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/Kartik200214/credit-card-dashboard/main/Dashboad.jpag)
+![Dashboard2](https://raw.githubusercontent.com/Kartik200214/credit-card-dashboard/main/Dashboad2.jpag)
+
 
 
