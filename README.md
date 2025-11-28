@@ -66,3 +66,25 @@ Top-performing states contributing highest revenue.
 • Weekly performance comparisons
 • Customer acquisition cost by card type
 • Revenue by expenditure category
+
+
+# Technical Implementation :-
+
+### Data Pipeline
+• Data Preparation: CSV file preparation
+• SQL Database: Table creation and data import (10,108 records)
+• Power BI Integration: Data modeling & visualization
+
+
+### DAX Queries / Measures
+• Age Groups: 20-30, 30-40, 40-50, 50-60, 60+
+• Income Groups: Low (<$35K), Medium ($35K-70K), High (>$70K)
+• Revenue Formula: Annual fee + Transaction amount + Interest earned
+• Weekly Performance: Current vs previous week data comparison
+
+
+# Overview :-
+## Dashboard
+![Dashboard](https://raw.githubusercontent.com/Kartik200214/credit-card-dashboard/main/dashboard.png)
+
+
