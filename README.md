@@ -1,55 +1,68 @@
-**Credit Card Financial Dashboard**
+# 💳 Credit Card Financial Dashboard
+# Project Name :-
+Credit Card Financial Dashboard Using Power BI
 
-A comprehensive Power BI dashboard project for analyzing credit card financial performance, customer demographics, and transaction patterns. This project provides real-time insights into key metrics enabling data-driven decision making for credit card operations.
+# Description :-
+- 💼 The Credit Card Financial Dashboard is a comprehensive Power BI project designed to analyze credit card financial performance, customer demographics, expenditure trends, and transaction insights. This dashboard enables financial teams and business leaders to monitor key performance metrics and make data-driven decisions to enhance revenue, customer retention, and operational efficiency.
 
-📊 **Project Overview**
-This project develops an interactive financial dashboard that visualizes:
-Revenue analysis by various dimensions (expenditure type, education, card category, etc.)
-Customer demographics and segmentation
-Transaction patterns and performance metrics
-Weekly performance tracking and trend analysis
+- 📈 The dashboard provides real-time analytics on revenue growth, transaction behavior, interest earnings, and customer segmentation. With dynamic filters and interactive visuals, users can drill down by expenditure category, gender, age group, area, card type, and education level to uncover actionable insights.
 
-🎯 **Key Features**
-Financial Metrics
-Total Revenue: $55.4M
-Total Interest Earned: $7.9M
-Total Transaction Amount: $45M
-Transaction Count: 657K
+- ⚙️ The dashboard includes trend analysis for weekly and quarterly performance, supporting forecasting and strategic planning for credit card business operations.
+  
+# Technologies Used :-
 
-**Customer Insights**
-Gender Distribution: Male ($29.6M) vs Female ($25.8M)
-Top States: TX, NY, CA contributing 68% of revenue
-Card Categories: Blue (93% of transactions), Silver, Gold, Platinum
-Age Groups: 30-40 age group shows highest revenue contribution
+• Advance Excel 👨‍💻
+• SQL Database 🗄️
+• Power BI 📊
+• DAX Functions ➕
+• Data Modelling
 
-**Performance Tracking**
-Quarterly revenue and transaction trends
-Weekly performance comparisons
-Customer acquisition costs by card type
-Revenue by expenditure categories
+# Dashboard Content :-
 
-🛠️ **Technical Implementation**
-Data Pipeline
-Data Preparation: CSV file preparation
-SQL Database: Table creation and data import (10,108 records)
-Power BI Integration: Data modeling and visualization
+## Key Performance Indicators (KPIs):
 
-**DAX Queries**
-Key measures implemented:
-Age Group Classification: 20-30, 30-40, 40-50, 50-60, 60+
-Income Group Segmentation: Low (<$35K), Medium ($35K-70K), High (>$70K)
-Revenue Calculation: Annual fees + Transaction amount + Interest earned
-Weekly Performance: Current vs previous week revenue tracking
+• Total Revenue: $55.4M
+• Total Interest Earned: $7.9M
+• Total Transaction Amount: $45M
+• Total Transaction Count: 657K
+• Customer Count Growth: Increasing trend
 
-**📈 Key Insights**
-**Week 53 Performance (December 31st)**
-Revenue Growth: 28.8% increase
-Customer Growth: Significant increase in customer count
-Transaction Growth: Increased transaction amount and count
 
-**Year-to-Date Performance**
-Overall Revenue: $57M
-Activation Rate: 57.5%
-Delinquent Rate: 6.06%
-Top Card Types: Blue & Silver cards contribute 93% of transactions
-Geographic Focus: TX, NY & CA contribute 68% of revenue
+## Visualizations:
+1. Revenue Insights by Category  
+A detailed analysis of revenue distribution based on expenditure type, education level, and card category.
+
+2. Customer Demographics (Bar & Donut Charts)  
+Insights by gender, age groups, and geographic data using drill-down filters.
+
+3. Transaction Patterns & Performance  
+Transaction count, total transaction amount, peak transaction time, and expenditure categories.
+
+4. Weekly & Quarterly Trend Analysis  
+Week-over-week and quarter-over-quarter revenue and transaction comparisons.
+
+5. Card Category Performance  
+Performance overview across card categories — Blue, Silver, Gold, and Platinum.
+
+6. Geo Revenue Distribution  
+Top-performing states contributing highest revenue.
+
+# Key Features :-
+
+### Financial Metrics 
+• Total Revenue: $55.4M
+• Total Interest Earned: $7.9M
+• Total Transaction Amount: $45M
+• Transaction Count: 657K
+
+### Customer Insights
+• Gender Distribution: Male ($29.6M) vs Female ($25.8M)
+• Top States: TX, NY, CA contributing 68% of revenue
+• Card Categories: Blue (93% transactions), Silver, Gold & Platinum
+• Age Group: 30-40 shows the highest revenue contribution
+
+### Performance Tracking
+• Quarterly revenue & transaction trends
+• Weekly performance comparisons
+• Customer acquisition cost by card type
+• Revenue by expenditure category
