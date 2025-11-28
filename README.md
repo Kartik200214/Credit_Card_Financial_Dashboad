@@ -83,10 +83,12 @@ Top-performing states contributing highest revenue.
 • Weekly Performance: Current vs previous week data comparison
 
 
-# Overview :-
-## Dashboard
-![Dashboard](https://raw.githubusercontent.com/Kartik200214/credit-card-dashboard/main/Dashboad.jpag)
-![Dashboard2](https://raw.githubusercontent.com/Kartik200214/credit-card-dashboard/main/Dashboad2.jpag)
+# Overview :-  
+## Dashboard  
+![Dashboard Screenshot 1](https://github.com/Kartik200214/Credit_Card_Financial_Dashboad/blob/main/Dashboard.jpeg?raw=true)  
+![Dashboard Screenshot 2](https://github.com/Kartik200214/Credit_Card_Financial_Dashboad/blob/main/Dashboard2.jpeg?raw=true)
+
+
 
 
 
